@@ -1,0 +1,17 @@
+{
+  "dependencies_found": 0,
+  "files_scanned": 12,
+  "files_skipped": [],
+  "findings": [],
+  "generated_at": "2026-10-27T23:42:47.893266+00:00",
+  "osv_lookup_enabled": false,
+  "schema_version": 1,
+  "security_score": 100,
+  "summary": {
+    "critical": 0,
+    "high": 0,
+    "low": 0,
+    "medium": 0
+  },
+  "target": "/Users/ishanverma/Downloads/Pro"
+}
